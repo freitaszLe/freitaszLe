@@ -1,7 +1,7 @@
 ## Olá! Sou a Leticia Freitas
 - Dev iniciante
-- Programação básica em Java
-- Front-end completo
+- Programação em Java
+- Conhecimento em banco de dados
 <div>
 
    <br>
