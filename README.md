@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer ☕<br>- Academic Computer engineering IFMT 👨‍🎓</p>
+<p align="left">- Java & PHP Developer ☕<br>- Academic Computer engineering IFMT 👨‍🎓</p>
 
 ###
 
