@@ -12,7 +12,7 @@
 - 🔭 Atualmente trabalhando com desenvolvimento de sistemas e projetos usando **Java, Spring Boot, Angular e PHP com Laravel**.
 - 🌱 Aprendendo mais sobre **microserviços, Docker e arquitetura de software**.
 - 💬 Pergunte-me sobre **Java, PostgreSQL, Spring Boot, Angular e algoritmos**.
-- 📫 Como me encontrar: **le.freitas712@gmail.com**
+- 📫 Entrar em contado: **le.freitas712@gmail.com**
 - 🚀 Interesse em desenvolvimento **back-end, front-end e soluções para automação e sistemas web**.
 
 ---
