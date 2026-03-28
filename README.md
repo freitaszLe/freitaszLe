@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Letícia Freitas 👋</h1>
 
 <p align="center">
-  Desenvolvedora de software em formação, com foco em back-end, front-end e soluções web.
+  Desenvolvedora de software em formação, com foco em back-end e soluções web.
 </p>
 
 ---
